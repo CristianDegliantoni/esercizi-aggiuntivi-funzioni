@@ -10,7 +10,7 @@ Scrivi una funzione che, dato l'anno di nascita e il genere (M/F), calcoli quant
 
 Un professore deve convertire un voto numerico in un giudizio. Scrivi una funzione che restituisca "Insufficiente", "Sufficiente" o "Ottimo" in base al punteggio. (fatto)
 
-Stai organizzando un evento. Scrivi una funzione che ti dica quanti giorni ha un determinato mese.
+Stai organizzando un evento. Scrivi una funzione che ti dica quanti giorni ha un determinato mese. (fatto)
 
 Hai la durata di un film in minuti totali. Scrivi una funzione che la converta in un formato più leggibile "X ore e Y minuti".
 
